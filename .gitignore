@@ -35,3 +35,15 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+.terraform.tfstate
+.terraform.tfstate.1758061185.backup
+.terraform.tfstate.1758062521.backup
+.terraform.tfstate.backup
+.creds
+.config
+crash.log
+.terraform.tfstate.lock.info
